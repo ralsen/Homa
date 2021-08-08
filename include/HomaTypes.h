@@ -20,9 +20,6 @@
 #define DEFAULT_SSID          "unknown"
 #define DEFAULT_PASSWORD      "unknown"
 
-// #define DEFAULT_SSID          "janzneu"
-// #define DEFAULT_PASSWORD      "D1AFFE1234!"
-
 #define DEFAULT_HOSTNAME      "No-Name"
 #define DEFAULT_APNAME        "ESPnet"
 #define DEFAULT_MEASCYCLE     150       // Measurement cycle in sec.
